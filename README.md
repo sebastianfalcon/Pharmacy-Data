@@ -1,9 +1,11 @@
 # Transitions of Care (ToC) Dashboard
 Background and Overview
 
-There are 2 pharmacies within the County of San Diego, that provide medications to the San Diego County Psychiatric Hospital and Edgemoor Distinct Part Skilled Nursing Facility. 
+The County of San Diego has 2 internal pharmacies. Pharmacists fill, and provide medications to patients that are admitted or dischaged from Psychiatric Hospital or Skilled Nursing facility. The Electronic Health Record System, Cerner, documents all records of these transactions, however, it does not provide data insights or analytics on their performance. 
 
-These pharmacies conduct transitions of care (ToC) for every patient admission and discharged.
+I was task to analyze their data, 
+
+These pharmacies conduct transitions of care (ToC) 
  
 
 Data Structure Overview
